@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Desktop/tree/master/React/myapp/static/css/main.dc4d6ff2.css",
+    "main.js": "/Desktop/tree/master/React/myapp/static/js/main.3d2df5d1.js",
+    "static/js/453.183908db.chunk.js": "/Desktop/tree/master/React/myapp/static/js/453.183908db.chunk.js",
+    "index.html": "/Desktop/tree/master/React/myapp/index.html",
+    "main.dc4d6ff2.css.map": "/Desktop/tree/master/React/myapp/static/css/main.dc4d6ff2.css.map",
+    "main.3d2df5d1.js.map": "/Desktop/tree/master/React/myapp/static/js/main.3d2df5d1.js.map",
+    "453.183908db.chunk.js.map": "/Desktop/tree/master/React/myapp/static/js/453.183908db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.3d2df5d1.js"
+  ]
+}
