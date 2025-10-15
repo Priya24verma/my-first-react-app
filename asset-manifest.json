@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Priya24verma/my-first-react-app/static/css/main.dc4d6ff2.css",
-    "main.js": "/Priya24verma/my-first-react-app/static/js/main.9b0f3eda.js",
-    "static/js/453.183908db.chunk.js": "/Priya24verma/my-first-react-app/static/js/453.183908db.chunk.js",
-    "index.html": "/Priya24verma/my-first-react-app/index.html",
-    "main.dc4d6ff2.css.map": "/Priya24verma/my-first-react-app/static/css/main.dc4d6ff2.css.map",
-    "main.9b0f3eda.js.map": "/Priya24verma/my-first-react-app/static/js/main.9b0f3eda.js.map",
-    "453.183908db.chunk.js.map": "/Priya24verma/my-first-react-app/static/js/453.183908db.chunk.js.map"
+    "main.css": "/my-first-react-app/static/css/main.dc4d6ff2.css",
+    "main.js": "/my-first-react-app/static/js/main.54116adc.js",
+    "static/js/453.183908db.chunk.js": "/my-first-react-app/static/js/453.183908db.chunk.js",
+    "index.html": "/my-first-react-app/index.html",
+    "main.dc4d6ff2.css.map": "/my-first-react-app/static/css/main.dc4d6ff2.css.map",
+    "main.54116adc.js.map": "/my-first-react-app/static/js/main.54116adc.js.map",
+    "453.183908db.chunk.js.map": "/my-first-react-app/static/js/453.183908db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.9b0f3eda.js"
+    "static/js/main.54116adc.js"
   ]
 }
